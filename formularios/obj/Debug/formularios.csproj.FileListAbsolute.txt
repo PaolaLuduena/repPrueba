@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\bin\Debug\formularios.exe.config
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\bin\Debug\formularios.exe
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\bin\Debug\formularios.pdb
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.Properties.Resources.resources
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.csproj.GenerateResource.cache
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.exe
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.pdb
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.Productos.resources
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.FormfacturasACreditos.resources
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.FormformfacturasAlContado.resources
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.FrmInicio.resources
+C:\Users\User\Desktop\prgvisual2020\formularios\formularios\obj\Debug\formularios.DatosdeClientes.resources

@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\prgvisual2020\formularios\Codigo\obj\Debug\Codigo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prgvisual2020\formularios\Codigo\obj\Debug\Codigo.Properties.Resources.resources
+C:\Users\User\Desktop\prgvisual2020\formularios\Codigo\obj\Debug\Codigo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\prgvisual2020\formularios\Codigo\obj\Debug\Codigo.csproj.CoreCompileInputs.cache

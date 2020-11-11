@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Ordena>
+    <Codigo>0</Codigo>
+    <Producto>jamon</Producto>
+    <Cantidad>12</Cantidad>
+    <Precio>1000</Precio>
+  </Ordena>
+</DocumentElement>

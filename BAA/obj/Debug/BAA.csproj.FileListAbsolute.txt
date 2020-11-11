@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\prgvisual2020\formularios\BAA\obj\Debug\BAA.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prgvisual2020\formularios\BAA\obj\Debug\BAA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\prgvisual2020\formularios\BAA\bin\Debug\BAA.dll
+C:\Users\User\Desktop\prgvisual2020\formularios\BAA\bin\Debug\BAA.pdb
+C:\Users\User\Desktop\prgvisual2020\formularios\BAA\obj\Debug\BAA.dll
+C:\Users\User\Desktop\prgvisual2020\formularios\BAA\obj\Debug\BAA.pdb

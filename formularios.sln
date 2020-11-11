@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registros", "formularios\Registros.csproj", "{49B9D966-A338-461F-A4F8-1D2F340D85FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codigos", "Codigos\Codigos.csproj", "{72E686F3-95C8-4149-A3A2-750221E71DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49B9D966-A338-461F-A4F8-1D2F340D85FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B9D966-A338-461F-A4F8-1D2F340D85FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B9D966-A338-461F-A4F8-1D2F340D85FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B9D966-A338-461F-A4F8-1D2F340D85FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E686F3-95C8-4149-A3A2-750221E71DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E686F3-95C8-4149-A3A2-750221E71DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E686F3-95C8-4149-A3A2-750221E71DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E686F3-95C8-4149-A3A2-750221E71DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A7CE8CA-6E32-4A6F-9017-43ACAD31CF11}
+	EndGlobalSection
+EndGlobal
